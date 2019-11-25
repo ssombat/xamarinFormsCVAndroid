@@ -1,2 +1,2 @@
 # xamarinFormsCVAndroid
- Collection view bug on android
+ Collection view resizing bug on android
